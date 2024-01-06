@@ -1,0 +1,391 @@
+Foreign- Domestic|
+Foreground- Background|
+Forbid- Allow|
+For- Against|
+Follow- Lead~
+Floor-Ceiling|
+Flat-Hilly|
+Fix-Break|
+First-Final|
+Finish- Start~
+Finish-Begin|
+Find- Lose|
+Final- First|
+Few- Many|
+Female-Male~
+Fear-Courage|
+Fat-Slim|
+Fast-Slow|
+Far-Near|
+False-True~
+Failure-Success|
+Fail-Succeed|
+Extreme-Moderate|
+Exposure-Shelter|
+Export-Import~
+Expensive-Cheap|
+Exit- Entrance|
+Exclude- Include|
+Exciting- Boring|
+Excited-Calm~
+Exactly-Approximately|
+Everything-Nothing|
+Everybody-Nobody|
+Evening-Morning|
+Even-Odd~
+Equal- Different|
+Entrance-Exit|
+Enter- Leave|
+Enjoy- Hate|
+Enemy-Friend~
+Ending-Beginning|
+End-Beginning|
+End-Begin|
+Empty-Full|
+Emigration-Immigration~
+Emigrate-Immigrate|
+Elementary-Advanced|
+Easy-Difficult|
+East-West|
+Early-Late~
+Guilty-Innocent|
+Guest- Host|
+GrownUp-Child|
+Good- Bad|
+Go- Come~
+Gloomy-Cheerful|
+Give-Take|
+Girl- Boy|
+Giant- Tiny|
+Giant-Dwarf~
+Gentleman-Lady|
+Gentle-Violent|
+Gentle - Rough|
+Generous- Mean|
+Generous -Mean~
+General-Particular|
+Husband-Wife|
+Hungry-Thirsty|
+Hunger -Thirst|
+Humid-Dry~
+Humble -Proud|
+Humane-Cruel|
+Human-Animal|
+Huge-Tiny (Small)|
+Hot- Cold~
+Host-Guest|
+Horizontal-Vertical|
+Hopeless- Hopeful|
+Hopeful-Desperate|
+Honest- Dishonest~
+Hit- Miss|
+Hinder –Aid|
+Hilly- Flat|
+High- Low|
+High- Deep~
+Here-There|
+Hell-Heaven|
+Heavy-Light|
+Heaven-Hell|
+Heat-Cold~
+Healthy-Ill|
+Healthy-Unhealthy|
+Health- Disease|
+Hate-Enjoy|
+Hate- Love~
+Hasten-Dawdle|
+Harvest-Plant|
+Harmful -Harmless|
+Hard-Easy|
+Happy -Sad~
+Happiness-Sadness|
+Handsome- Ugly|
+Interrupt-Continue|
+Interior- Exterior|
+Interesting- Boring~
+Interesting- Uninteresting|
+Intentional-Accidental|
+Intentional- Accidental|
+Intelligent-Silly|
+Insult-Compliment~
+Inside-Outside|
+Innocent-Guilty|
+Inferior -Superior|
+Increase-Reduce|
+Include-Exclude~
+InFront Of-Back|
+In-Out|
+Imprison - Free|
+Import-Export|
+Immigration-Emigration~
+Immense-Tiny|
+Ill-Healthy|
+Ignore- Notice|
+Junior-Senior|
+Justice-Injustice~
+Kind-Cruel|
+Knowledge-Ignorance|
+Lower-Raise|
+Low-High|
+Lovely-Terrible~
+Love-Hate|
+Loud- Quiet|
+Loser- Winner|
+Lose-Win|
+Long-Short~
+Lofty -Lowly|
+Live-Die|
+Little-Much|
+Little- Big|
+Little- Large~
+Liquid-Solid|
+Like-Hate|
+Light- Heavy|
+Light-Dark|
+Life-Death~
+Lie-Stand|
+Let- Forbid|
+Less- More|
+Lend- Borrow|
+Left- Right~
+Leave-Arrive|
+Learn- Teach|
+Lead- Follow|
+Lazy- Active|
+Lazy-Industrious~
+Laugh- Cry|
+Late-Early|
+Last-First|
+Large-Small|
+Land-Water~
+Land-Take Off|
+Lady-Gentleman|
+Lack-Abundance|
+Much-Little|
+Mountain-Valley~
+Morning-Evening|
+More- Less|
+Moon-Sun|
+Monarchy-Republic|
+Modern- Ancient~
+Moderate-Extreme|
+Misunderstand-Understand|
+Miss-Hit|
+Miss-Catch|
+Minor- Major~
+Minimum-Maximum|
+Midnight-Noon|
+Mess-Order|
+Mend-Break|
+Men-Women~
+Melt- Freeze|
+Mean-Generous|
+Maximum-Minimum|
+Master-Servant|
+Marry-Divorce~
+Married-Divorced|
+Marriage-Divorce|
+Many-Few|
+Man-Woman|
+Male- Female~
+Major- Minor|
+Now- Then|
+Notice- Ignore|
+Nothing- Everything|
+Not Yet-Already~
+North-South|
+Normal-Strange|
+Noon-Midnight|
+Noisy-Quiet|
+Nobody-Everybody~
+No-Yes|
+Night-Day|
+Niece-Nephew|
+Nice-Awful|
+New-Ancient~
+Never- Always|
+Nephew-Niece|
+Negative-Affirmative|
+Near-Distant|
+Natural-Artificial~
+Native-Foreigner|
+Nasty-Nice|
+Narrow-Broad|
+Over-Under|
+Outskirts- Centre~
+Outside-Inside|
+Out-In|
+Other-Same|
+Ordinary-Special|
+Order-Mess~
+Opponent-Supporter|
+Open-Closed|
+On- Off|
+Old- Modern|
+Often-Seldom~
+Off-On|
+Odd-Even|
+Occupied-Vacant|
+Occasionally-Frequently|
+Push-Pull~
+Pupil-Teacher|
+Pull-Push|
+Public- Private|
+Prudent-Imprudent|
+Protection-Attack~
+Protect-Attack|
+Professional-Amateur|
+Probably-Certainly|
+Private-Public|
+Pretty-Ugly~
+Present-Past|
+Presence-Absence|
+Powerful-Weak|
+Poverty- Wealth|
+Possible-Impossible~
+Poor-Rich|
+Polite-Rude|
+Plenty-Lack|
+Pleasant-Awful|
+Plant-Harvest~
+Permit-Forbid|
+Peace-War|
+Past-Future|
+Pass-Fail|
+Particular-General~
+Partial-Total|
+Part-Whole|
+Parents-Children|
+Quiet-Loud|
+Quick-Slow~
+Question-Answer|
+Rural-Urban|
+Rude-Polite|
+Rough-Smooth|
+Rough-Gentle~
+Rise-Sink|
+Rigid-Pliable|
+Right-Wrong|
+Right-Left|
+Rich-Poor~
+Rest-Work|
+Republic-Dictatorship|
+Reply-Question|
+Reply-Ask|
+Repair-Damage~
+Remember-Forget|
+Regret-Satisfaction|
+Refuse-Agree|
+Reduce-Increase|
+Receive-Send~
+Rear-Front|
+Rapid-Slow|
+Raise-Lower|
+Rainy-Sunny|
+Sunny-Cloudy~
+Sun-Moon|
+Summer-Winter|
+Sugar-Salt|
+Success-Failure|
+Succeed-Fail~
+Suburb-Centre|
+Subtract-Add|
+Stupid-Clever|
+Student-Teacher|
+Strong-Weak~
+Strict-Gentle|
+Stranger-Native|
+Strange-Normal|
+Stop-Start|
+Start-Stop~
+Start-Finish|
+Stand-Sit|
+Stand-Lie|
+Spring-Autumn|
+Special-General~
+South-North|
+Sour-Sweet|
+Sour-Sweet|
+Soul-Body|
+Sorrow-Joy~
+Son-Daughter|
+Sometimes-Often|
+Some-Many|
+Solid-Liquid|
+Soft-Hard~
+Smooth-Rough|
+Small-Big|
+Slow-Fast|
+Slim-Fat|
+Sit-Stand~
+Sister-Brother|
+Sink-Rise|
+Single-Married|
+Simple-Complicated|
+Silly-Intelligent~
+Silent-Noisy|
+Sick-Healthy|
+Shut-Open|
+Shout-Whisper|
+Short-Long~
+Shelter-Exposure|
+Sharp-Blunt|
+Shallow-Deep|
+Set Free-Arrest|
+Servant-Master~
+Serious-Funny|
+Serious-Trivial|
+Separate-Connect|
+Senior-Junior|
+Send-Receive~
+Sell-Buy|
+Seldom-Often|
+Security-Danger|
+Scream-Whisper|
+Scatter-Collect~
+Save-Spend|
+Satisfy-Annoy|
+Satisfactory-Unsatisfactory|
+Satisfaction-Regret|
+Same-Different~
+Salt-Sugar|
+Safety-Danger|
+Safe-Dangerous|
+Sadness-Happiness|
+Sad-Happy~
+Useless-Useful|
+Useful-Useless|
+Urban-Rural|
+Upstairs-Downstairs|
+Up-Down~
+Unity-Division|
+Unite-Divide|
+Under-Over|
+Ugly-Beautiful|
+Ugliness-Beauty~
+Trust-Suspect|
+True-False|
+Vowel-Consonant|
+Voluntary-Compulsory|
+Visitor-Host~
+Violent-Gentle|
+Village-Town|
+Victory-Defeat|
+Vertical-Horizontal|
+Valley-Mountain~
+Vacant-Occupied|
+Wide-Narrow|
+Whole-Part|
+White-Black|
+Whisper-Scream~
+Wet-Dry|
+West-East|
+Well-Ill|
+Wedding-Divorce|
+Wealthy-Poor~
+Wealth-Poverty|
+Weak-Powerful|
+Water-Land|
+Waste-Save|
+Warm-Cool~
+

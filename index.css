@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(180deg, #ffb253 0%, #f56259 100%);
+    
+    min-height: 100vh;
+   /* background-repeat: no-repeat;*/
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container .card{
+  position: relative;
+  width: 300px;
+  height: 420px;
+  background-color: #ffffff;
+  margin: 20px;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 2px 5px 5px rgba(92, 91, 91, 0.555);
+  transition: 0.5s;
+}
+
+.container .card .circle{
+    position: relative;
+    width: 100%;
+    height: 80%;
+    background-color: black;
+    clip-path: circle(150px at center 0);
+    text-align: center;
+   
+}
+
+.container .card .circle h1{
+    color: #ffffff;
+    font-size: 4.5em;
+    padding: 30px 0;
+   
+}
+
+.container .card .animation-card_content{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    margin: auto;
+    page-break-after: 20px;
+    text-align: center;
+    
+}
+
+.container .card .animation-card_content .syn{
+    text-align: center;
+    font-size: 2em;
+   color: rgb(31, 30, 30);
+   
+ 
+}
+
+
+.container .card:nth-child(1) .circle{
+    background: #ffb253;
+}
+.container .card:nth-child(2) .circle{
+    background: #ff7b53;
+}
+
+.container .card:nth-child(3) .circle{
+    background: #ff5953;
+}
+
+.container:hover .card{
+    filter: blur(20px);
+    transform: scale(0.9);
+    opacity: 0.5;
+}
+.container .card:hover{
+    filter: blur(0px);
+    transform: scale(1.1);
+    opacity: 1;
+}
+
+.btnbox{
+    width: 100%;    
+     
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+  a:hover {
+    background-color: rgb(241, 224, 127);
+    color: black;
+  }
+  .btn{
+    width: 20%;
+    box-shadow: 2px 2px 2px black;
+    font-size: 4vh;
+  }
+  
+  .previous {
+    background-color: #f1f1f1;
+    color: black;
+   
+  }
+  
+  .next {
+    background-color: #eca92b;;
+    color: white;
+   
+    
+  }
+  
+

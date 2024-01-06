@@ -1,0 +1,400 @@
+Optimist-Pessimist|
+Float - Sink|
+Fat - Skinny|
+Hostile-Friendly|
+Dense- Sparse~
+Divide- Join|
+Hungry - Full|
+Gentle - Rough|
+Raise - Lower|
+Rise - Sink~
+Rough - Smooth|
+Extinct-Abundant|
+Sour - Sweet|
+Stay - Leave|
+Tidy - Messy~
+Ugly - Beautiful|
+White - Black|
+Wild - Tame|
+Win - Lose|
+Well - Sick~
+Wet - Dry|
+Young - Old|
+Agree -	Disagree|
+Arrive -Depart|
+Brave -	Coward~
+Belief -Disbelief|
+Cruel-  Kind|
+Dry	 -  Wet|
+Evil -	Good|
+Foolish-Wise~
+Famous- Ordinary|
+Faithful-Unfaithful|
+Fresh -	Stale|
+Alone -	Together|
+Dull -	Interesting~
+Few	  -  Many|
+Follow - Lead|
+Forget - Remember|
+Fat	  -  Thin|
+Far	  -  Near~
+Gain -	Loss|
+Kind  -  Cruel|
+Absence-Presence|	
+Accept-Refuse|
+Accurate-Inaccurate~
+Advantage-Disadvantage|
+Alive-Dead|
+Ancient-Modern|
+Answer-Question	|
+Approval-Disapproval~
+Approached-Receded|
+Abundant-Scarce|
+Admit-Deny|
+Advance-Retreat|
+Artificial-Natural~
+Ascend-Descend|
+Attack-Defence|
+Attention-Inattention|
+Asleep-Awake|
+Ally-Enemy~
+Agree-Disagree|
+Beginning-Ending|
+Blunt-Sharp|
+Blame-Praise|
+Bitter-Sweet~
+Borrow-Lend|
+Bravery-Cowardice|
+Broad-Narrow|	
+Careful-Rush|	
+Calm-Troubled~
+Capable-Incapable|
+Captivity-Freedom|	
+Cheap-Dear|
+Clever-Stupid|
+Correct-Incorrect~
+Conceal-Reveal|
+Comfort-Discomfort|
+Courage-Cowardice|
+Cruel-Kind|
+Courteous-Discourteous~
+Cunning-Simple|
+Beautiful-Ugly|
+Dainty-Clumsy|
+Dark-Light|
+Deep-Shallow~	
+Decrease-Increase|	
+Demand-Supply|
+Despair-Hope|	
+Disappear-Appear|
+Dismal-Cheerful~
+Ebb-Flow|	
+Encourage-Discourage|
+Entrance-Exit|
+End-Beginning|	
+Expand-Contract~
+Expensive-Inexpensive|
+Fail-Succeed|	
+Feeble-Sturdy|
+Foolish-Wise|	
+Famous-Unknown~	
+First-Last|
+Freedom-Captivity|
+Frequent-Seldom|
+Friend-Enemy|
+Fortunate-Unfortunate~
+Frank-Secretive|
+Generous-Mean|	
+Gentle-Rough|	
+Gloomy-Cheerful	|
+Giant-Dwarf~
+Happy-Sad|
+Harmful-Harmless|	
+Hasten-Dawdle|	
+Hate-Love|
+Healthy-Unhealthy~
+Horizontal-Vertical	|
+Hinder-Aid|	
+Honest-Dishonest|	
+Humble-Proud|	
+Hunger-Thirst~
+Immense-Tiny|	
+Imprison-Free|
+Inferior-Superior|	
+Interior-Exterior|	 
+Interesting-Uninteresting~
+Intentional-Accidental|
+Justice-Injustice|
+Knowledge- Ignorance|	
+Lazy-Industrious|	
+Little-Large~	
+Lofty-Lowly	|
+Misunderstand-Understand|
+Possible-Impossible	|
+Prudent-Imprudent|
+Rapid-Slow~
+Rigid-Pliable|	 
+Satisfactory-Unsatisfactory|	
+Scatter-Collect	|
+Serious-Trivial	|
+Sour-Sweet~
+Sorrow-Joy|	
+Strong-Weak|
+Abundant-Scarce|
+ Artificial-Natural|
+ Bold-Timid~
+Intrepid-Cowardly | 
+Grumpy-Amiable  |
+Castigate-Praise|
+ Affable-Unfriendly|
+ Tranquil-Excitable~
+ Acme-Nadir |
+Boundless-Limited | 
+Bashful-Bold |
+Compress-Enlarge | 
+Debilitate-Strengthen~ 
+Concise-Lengthy| 
+Detrimental-Beneficial |
+ Adulation-Criticism |
+Inception-Conclusion |
+ Eccentric-Ordinary ~
+Authentic-Fake|
+Emancipate-Enslave |
+Bewitch-Repel|
+Precarious-Safe |
+Aversion- Liking/Inclination~ 
+Fallacious-True |
+Avarice-Generosity |
+Knavish-Virtuous |
+Dwindle-Flourish |
+Colossal-Tiny~
+Decimate-Construct |
+Jabber- Quiet  |
+Foster-Suppress |
+Yearn-Loathe|
+Frugal-Extravagant ~
+Mitigate-Intensify |  
+Perennial-Occasional|
+Obstinate-Amenable| 
+Agile-Clumsy/Stiff |
+Clemency-Ruthlessness~
+Vendetta-Harmony |
+Adept-Amateur |
+Sanguine-Pessimistic| 
+Palatable-Tasteless|
+ Arduous – Effortless~
+Circumscribed – Boundless| 
+Sedentary – Active|
+Relish – Apathy|
+ Dearth – Abundance |
+Jeopardy – Safety~
+Tolerant- intolerant|
+Excusable- inexcusable|
+Decent- indecent|
+Famous- infamous|
+Audible- inaudible~
+Appear- disappear|
+Belief- disbelief|
+Honest- dishonest|
+Pleased- displeased|
+Honour- dishonour~
+Behave- misbehave|
+Manage- mismanage|
+Interpret- misinterpret|
+Conduct- misconduct|
+Lead- mislead~
+Awful-Nice|
+Awake-Asleep|
+Autumn-Spring|
+Attic-Cellar|
+Attention- Inattention~
+Attack-Defend|
+Asleep-Awake|
+Asleep-Awake|
+Ask-Answer|
+Ascent-Descent~
+Ascend-Descend|
+Artificial- Natural|
+Arrive-Depart|
+Arrival-Departure|
+Argue-Agree~
+Approximately-Exactly|
+Approval-Disapproval|
+Approached-Receded|
+Apart-Together|
+Antonym-Synonym~
+Answer-Question|
+Answer-Ask|
+Answer-Question|
+Annoy-Satisfy|
+Animal-Human~
+Angel-Devil|
+Ancient-Modern|
+Ancestor-Descendant|
+Amuse-Bore|
+Amateur-Professional~
+Always-Never|
+Already-Not Yet|
+Ally-Enemy|
+Allow-Forbid|
+All-None~
+Alive-Dead|
+Alike-Different|
+Agree-Refuse|
+Agree-Disagree|
+Against-For~
+After-Before|
+Afraid-Brave|
+Affirmative-Negative|
+Advantage-Disadvantage|
+Advanced-Elementary~
+Advance-Retreat|
+Adult-Child|
+Admit-Deny|
+Add-Subtract|
+Active-Lazy~
+Accurate-Inaccurate|
+Accidental-Intentional|
+Accept-Refuse|
+Abundant-Scarce|
+Abundance-Lack~
+Absence-Presence|
+About-Exactly|
+Buy-Sell|
+Busy-Lazy|
+Build-Destroy~
+Brother-Sister|
+Broad-Narrow|
+Break-Fix|
+Bravery-Cowardice|
+Brave-Cowardly~
+Boy-Girl|
+Bottom-Top|
+Borrow-Lend|
+Boring-Exciting|
+Bore-Amuse~
+Body-Soul|
+Blunt-Sharp|
+Blame-Praise|
+Black-White|
+Bitter-Sweet~
+Birth-Death|
+Big-Small|
+Better-Worse|
+Best-Worst|
+Below-Above~
+Behind-In Front Of|
+Beginning-Ending|
+Begin-End|
+Before-After|
+Beauty-Ugliness~
+Beautiful-Ugly|
+Bad Luck-Good Luck|
+Bad Luck-Fortune|
+Bad-Good|
+Backward-Forward~
+Background-Foreground|
+Cunning-Simple|
+Cry-Whisper|
+Cruel-Human|
+Cruel-Kind~
+Create-Destroy|
+Cowardly-Brave|
+Courteous -Discourteous|
+Courageous-Cowardly|
+Courage-Fear~
+Courage-Cowardice|
+Correct-Wrong|
+Cool-Warm|
+Continue-Interrupt|
+Construction-Destruction~
+Constant-Changeable|
+Consonant-Vowel|
+Connect-Separate|
+Conceal -Reveal|
+Compulsory-Voluntary~
+Compliment-Insult|
+Complicated-Simple|
+Comfort -Discomfort|
+Comedy-Drama|
+Come-Go~
+Cold-Hot|
+Cloudy-Clear|
+Closed-Open|
+Close-Open|
+Clever-Stupid~
+Clear-Cloudy|
+Clean-Dirty|
+Children-Parents|
+Child-Adult|
+Cheap-Expensive~
+Cheap -Dear|
+Changeable-Constant|
+Certainly-Probably|
+Centre-Outskirts|
+Cellar-Attic~
+Ceiling-Floor|
+Catch-Miss|
+Careless-Careful|
+Careful-Careless|
+Careful -Rush~
+Captivity-Freedom|
+Capable- Incapable|
+Calm-Excited|
+Calm- Troubled|
+Dusk-Dawn~
+Dull-Interesting|
+Dry-Humid|
+Drama-Comedy|
+Downstairs-Upstairs|
+Down-Up~
+Domestic- Foreign|
+Divorced- Married|
+Divorce-Marry|
+Divorce-Marriage|
+Division-Unity~
+Divide-Unite|
+Distant-Near|
+Disease-Health|
+Dirty-Clean|
+Difficult-Easy~
+Different-Alike|
+Die-Live|
+Dictatorship-Republic|
+Devil-Angel|
+Destruction-Construction~
+Destroy-Build|
+Desperate-Hopeful|
+Descent-Ascent|
+Descendant-Ancestor|
+Departure-Arrival~
+Depart-Arrive|
+Deny-Admit|
+Delicious-Awful|
+Defend-Attack|
+Defence- Attack~
+Defeat-Victory|
+Deep- Shallow|
+Death- Birth|
+Dead- Alive|
+Day- Night~
+Dawn-Dusk|
+Daughter-Son|
+Dark- Light|
+Dangerous- Safe|
+Danger- Security~
+Damage-Repair|
+Future- Past|
+Funny- Serious|
+Full- Empty|
+Front-Rear~
+Friend-Enemy|
+Fresh-Old/Stale|
+Frequently-Occasionally|
+Freeze- Melt|
+Free- Arrest~
+Forward- Backward|
+Fortune-Bad Luck|
+Form- Destroy|
+Forget- Remember|
+Foreigner- Native~
